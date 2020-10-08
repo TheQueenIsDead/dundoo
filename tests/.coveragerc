@@ -1,0 +1,9 @@
+# https://coverage.readthedocs.io/en/coverage-5.0/config.html
+[run]
+omit =
+    */venv/*
+    main.py
+[report]
+omit =
+    */venv/*
+    main.py

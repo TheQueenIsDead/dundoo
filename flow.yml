@@ -1,0 +1,6 @@
+
+
+
+actions:
+  - commands.DemoCommand1
+  - commands.DemoCommand2
