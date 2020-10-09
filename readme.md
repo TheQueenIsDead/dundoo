@@ -1,0 +1,1 @@
+![Python Package](https://github.com/TheQueenIsDead/dundoo/workflows/Python%20Package/badge.svg?branch=master)
